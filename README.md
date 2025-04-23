@@ -39,15 +39,15 @@ Este es un juego interactivo en el que los jugadores deben adivinar un número s
 
          ✅Reinicio del juego
 
-         ✅README.md
+    📄README.md
 
-               ✔Incluye:
+        ✅Incluye:
 
-               ✔Descripción del juego
+        ✔Descripción del juego
 
-               ✔Instrucciones para jugar
-
-               ✔Cómo ejecutar el proyecto
+        ✔Instrucciones para jugar
+         
+        ✔Cómo ejecutar el proyecto
 
 Créditos y tecnologías usadas
 ## 🎮 ¿Cómo jugar?
@@ -59,11 +59,11 @@ Créditos y tecnologías usadas
     4️⃣ ¡Adivina el número antes de quedarte sin intentos!    
 ## 🔗 Accede al juego
 Puedes jugar directamente desde este enlace:  
-➡ **[Juego Secreto en Vercel]()**
+➡ **[Juego Secreto en Vercel](https://juego-secreto-six-zeta.vercel.app/)**
 
 ## 🖥️ Cómo ejecutarlo localmente
-1️⃣ Clona el repositorio con:  
+💻 Clona el repositorio con:  
    ~~~sh
-   git clone 
+   git clone clone https://github.com/datamasterdev/juego-secreto.git
    ~~~
 
